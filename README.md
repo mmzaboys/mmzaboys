@@ -3,12 +3,6 @@
 🔧 Passionate about building scalable, reliable infrastructure  
 📈 Always learning & sharing knowledge about CI/CD, Kubernetes & Cloud  
 
----
-
-## 🧠 Currently Learning:
-- 🔹 Advanced Kubernetes (Operators, Helm, GitOps)
-- 🔹 Infrastructure as Code (Terraform)
-- 🔹 Observability (Prometheus, Grafana)
 
 ---
 
