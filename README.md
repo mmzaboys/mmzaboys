@@ -45,10 +45,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mmzaboys&theme=radical&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mmzaboys&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mmzaboys&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true)<br/>
+![](https://streak-stats.demolab.com?user=mmzaboys&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmzaboys&theme=radical&layout=compact)
-
 ---
 
 ## 🧩 DevOps Mindset:
