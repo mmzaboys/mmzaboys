@@ -44,19 +44,12 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mmzaboys&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true)<br/>
-![](https://streak-stats.demolab.com?user=mmzaboys&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmzaboys&theme=radical&layout=compact)
+## 📊 GitHub Stats:  
+    ![](https://github-readme-stats.vercel.app/api?                  username=mmzaboys&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true)<br/>
+    ![](https://streak-stats.demolab.com?user=mmzaboys&theme=radical&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmzaboys&theme=radical&layout=compact)
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmzaboys&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=mmzaboys&theme=radical&hide_border=false" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmzaboys&theme=radical&layout=compact" width="60%" />
-</p>
 
 ## 🧩 DevOps Mindset:
 ```yaml
